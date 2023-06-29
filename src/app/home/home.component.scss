@@ -1,0 +1,21 @@
+:host {
+  display: flex;
+  width: 100%;
+}
+
+.home-container {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-title {
+  color: #f2f4f3;
+  letter-spacing: .03125rem;
+}
+
+.home-emphasis {
+  color: #e3b505;
+}
